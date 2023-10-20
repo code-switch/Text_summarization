@@ -1,0 +1,32 @@
+[2023-10-20 13:03:33]: root: INFO: creating directory:.github\workflows for the .gitkeep
+[2023-10-20 13:03:33]: root: INFO: creating empty file: .github\workflows\.gitkeep
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\components for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\components\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\utils for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\utils\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\utils for the common.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\utils\common.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\logging for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\logging\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\config for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\config\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\config for the configuration.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\config\configuration.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\pipeline for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\pipeline\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\entity for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\entity\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:src\textSummarizer\constants for the __init__.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: src\textSummarizer\constants\__init__.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:config for the config.yaml
+[2023-10-20 13:03:33]: root: INFO: creating empty file: config\config.yaml
+[2023-10-20 13:03:33]: root: INFO: creating empty file: params.yaml
+[2023-10-20 13:03:33]: root: INFO: creating empty file: app.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: main.py
+[2023-10-20 13:03:33]: root: INFO: creating empty file: Dockerfile
+[2023-10-20 13:03:33]: root: INFO: creating empty file: requirements.txt
+[2023-10-20 13:03:33]: root: INFO: creating empty file: setup.py
+[2023-10-20 13:03:33]: root: INFO: creating directory:research for the trial.ipynb
+[2023-10-20 13:03:33]: root: INFO: creating empty file: research\trial.ipynb
